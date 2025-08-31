@@ -1,0 +1,2 @@
+# Spotify-Clone
+Developed a responsive front key UI components such as the sidebar, music player, playlists, and navigation bar. Focused on modern design aesthetics, various screen sizes. 
